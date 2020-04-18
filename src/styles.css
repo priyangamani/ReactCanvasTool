@@ -1,0 +1,35 @@
+.container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  color:#459ac4;
+}
+
+#reactCanvas {
+  border: 1px solid #757575;
+  margin: 10px;
+  cursor: crosshair;
+  background-color:#459ac4;
+}
+
+.btn,
+.list-group {
+  display: block;
+  width: 502px;
+  margin: 10px;
+}
+
+.radio-group {
+  margin: 5px;
+}
+
+.imageStyle{
+  width: 50px;
+  height: 50px;
+}
+
+.borderContainer{
+  border-style: solid;
+  border-color:gray;
+}
+
